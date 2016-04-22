@@ -1,7 +1,7 @@
 # URLs des dépots gits
 
 * Nom prénom : url
-* BLASZKOWSKI :
+* BLASZKOWSKI : https://gitlab.com/LauraBlaws/tdd.git
 * BRISSET	ADRIEN :
 * DEVASSINE	ALEXANDRE :
 * GRANDJEAN	SYLVAIN :
